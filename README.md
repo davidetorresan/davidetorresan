@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a Headless Wordpress Website with React<br>👯 I’m looking to collaborate on a Scientific Projects<br>🤝 I’m looking for help for starting a Science Research Business (Blockchain and AI Based)<br>🌱 I’m currently learning Blockchain Development and Business Development
+🔭 I'm currently working on a my Tech Startup<br>👯 I’m looking to collaborate on a Scientific Open Source Projects<br>🌱 I’m currently learning Blockchain Development and Business Development
 
 
 ## 🌐 Socials:
